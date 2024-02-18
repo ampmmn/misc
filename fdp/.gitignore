@@ -1,0 +1,12 @@
+Debug/
+Release/
+ipch/
+x64/
+x86/
+.vs/
+!*.sln
+!*.vcxproj
+!*.vcxproj.filters
+!*.props
+*.aps
+*.user
